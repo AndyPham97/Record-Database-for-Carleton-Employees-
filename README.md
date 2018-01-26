@@ -1,4 +1,4 @@
-# COMP2401---Assignment-4
+
 ###########PURPOSE OF THIS SOFTWARE##############
 Purpose of this software is to mainpulate records of all the employees at Carleton
 
