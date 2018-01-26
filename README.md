@@ -3,7 +3,7 @@
 Purpose of this software is to mainpulate records of all the employees at Carleton
 
 ##########DEVELOPER AND DEVELOPMENT DATE############
-Developer is Andy Pham (Student #: 101006098) and development started at November 18th, 2017
+Developer is Andy Pham and development started at November 18th, 2017
 
 #########HOW THE SOFTWARE IS ORGRANIZED##############
 1. The files include:
